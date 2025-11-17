@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mayis
 
-<!--
-**Mayis2807/Mayis2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy María Paula Peña, estudiante de Desarrollo de Aplicaciones Web.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy algo primeriza en este fascinante mundo de la programación, pero cada día que aprendo algo nuevo me apasiona más. Lo que realmente me entusiasma es el proceso de crear, diseñar y analizar - cada proyecto es una oportunidad para construir algo único.
+
+En este perfil podrás explorar mis proyectos y mi evolución como desarrolladora. Aunque estoy en las primeras etapas de mi camino en el desarrollo web, cada repositorio representa mi dedicación y curiosidad por aprender.
+
+- [Sostenibilidad](https://github.com/Mayis2807/Sostenibilidad)
+- [Proyecto Feria Valencia](https://github.com/Mayis2807/ProyectoFeriaValencia)
+  
+Siempre aprendiendo, siempre creciendo 🌱💻❤️
