@@ -10,5 +10,7 @@ En este perfil podrás explorar mis proyectos y mi evolución como desarrollador
 
 - [Sostenibilidad](https://github.com/Mayis2807/Sostenibilidad)
 - [Proyecto Feria Valencia](https://github.com/Mayis2807/ProyectoFeriaValencia)
+- [Nexora Arena](https://github.com/Mayis2807/Nexora-Arena)
+
   
 Siempre aprendiendo, siempre creciendo 🌱💻❤️
